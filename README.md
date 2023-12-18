@@ -1,4 +1,6 @@
 # Product Review Classifier
+> Exploring important concepts in AIML and Deep Learning via the creation of a Bi-Directional LSTM
+
 Exploring important concepts in AIML and Deep Learning via the creation of a Bi-Directional LSTM using **TensorFlow** to classify product reviews scraped from Amazon. This data was used in the following paper:
 
 Xiaowen Ding, Bing Liu and Philip S. Yu. 
